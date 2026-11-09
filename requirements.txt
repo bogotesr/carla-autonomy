@@ -1,0 +1,5 @@
+fastai
+fastseg
+torch
+numpy
+matplotlib

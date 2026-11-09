@@ -1,0 +1,10 @@
+data/
+test_data/
+models/
+predictions/
+*.pkl
+
+
+
+__pychache__/
+*.pyc
